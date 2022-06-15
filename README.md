@@ -32,6 +32,7 @@ This is the man page which contains all functions and descriptions of all the fu
 This file contains the details of all the individuals that contributed to this shell project.
 
 Nkechi Asuai
+
 Elufidodo Gabriel Abiodun
 
 ## Features
